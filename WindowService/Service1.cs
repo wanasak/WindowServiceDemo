@@ -39,5 +39,10 @@ namespace WindowService
         {
             Library.Library.WriteErrorLog("Timer ticked.");
         }
+
+        internal void TestDebuggingMethod()
+        {
+            Console.ReadLine();
+        }
     }
 }
