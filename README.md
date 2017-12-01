@@ -4,7 +4,7 @@ Installing the Windows Service
 1. Open Developer Command Propmt for VS2012
 2. cd to your physical path
 3. Type InstallUtil.exe "WindowService.exe"
-4. Strart service
+4. Start service
 
 Unstalling the Windows Service
 1. cd to your physical path
